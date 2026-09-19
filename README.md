@@ -32,7 +32,7 @@ machine learning-based security system.
 2. Navigate to the project directory.
 3. Run the following command:
 
-   python prompt_detector.py
+   python detector.py
 
 4. Enter a prompt to view the detection result.
 5. Type `exit` to close the program.
