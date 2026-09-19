@@ -2,7 +2,7 @@
 
 ## Overview
 
-PromptGuard is a rule-based prompt injection detection
+Prompt Injection Detector is a rule-based prompt injection detection
 prototype designed to identify suspicious instructions
 and potential prompt injection attempts in LLM applications.
 
