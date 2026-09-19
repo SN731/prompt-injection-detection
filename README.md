@@ -1,4 +1,4 @@
-# PromptGuard - Prompt Injection Detector
+# Prompt Injection Detector
 
 ## Overview
 
